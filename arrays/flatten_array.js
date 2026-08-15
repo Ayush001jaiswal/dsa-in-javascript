@@ -1,4 +1,5 @@
 // Create a flatten array in a nested array
+
 const nestedArr = [1,[2,[3,4],5]]
 
 function getFlattenArray(nestedArr) {

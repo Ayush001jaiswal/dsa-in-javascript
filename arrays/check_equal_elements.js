@@ -1,7 +1,7 @@
 //Check if all array elements are equal
 const arr = [7,7, 7, 7, 1]
 
-// alternate way
+// Alternate way
 
 // function checkEqualElements(arr) {
 //     return arr.every(el => el === arr[0]);
